@@ -1,0 +1,57 @@
+[
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "name": "Gordon Ramsay",
+    "picture": "https://i.ibb.co/mDh0fTp/man-cook-holds-pan-with-vegetables-flying-air.jpg",
+    "years_of_experience": 15,
+    "num_recipes": 150,
+    "likes": 1000000,
+    "category__id": 1
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+    "name": "Jamie Oliver",
+    "picture": "https://i.ibb.co/PxDqkc2/medium-shot-chef-with-pan-spatula.jpg",
+    "years_of_experience": 25,
+    "num_recipes": 200,
+    "likes": 750000,
+    "category__id": 2
+  },
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71011",
+    "name": "Nigella Lawson",
+    "picture": "https://i.ibb.co/khQ2Jxf/pexels-miquel-ferran-gomez-figueroa-3814446.jpg",
+    "years_of_experience": 20,
+    "num_recipes": 100,
+    "likes": 500000,
+    "category__id": 3
+  },
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71012",
+    "name": "Anthony Bourdain",
+    "picture": "https://i.ibb.co/sQH0wRk/pexels-sides-imagery-3351927.jpg",
+    "years_of_experience": 15,
+    "num_recipes": 75,
+    "likes": 250000,
+    "category__id": 4
+  },
+  {
+    "_id": "11468ed61aee84de492a8b04158a22f9",
+    "name": "Emeril Lagasse",
+    "picture": "https://i.ibb.co/qs0RRFK/happy-young-cook-uniform-holding-salad.jpg",
+    "years_of_experience": 25,
+    "num_recipes": 120,
+    "likes": 500000,
+    "category__id": 5
+  },
+  {
+    "_id": "11468ed61aee84de492a8b04158a22f0",
+    "name": "Alex Holder",
+    "picture": "https://i.ibb.co/w4LpBGM/portrait-smiling-chef-uniform-min.jpg",
+    "years_of_experience": 15,
+    "num_recipes": 90,
+    "likes": 350000,
+    "category__id": 6
+    
+  }
+]
